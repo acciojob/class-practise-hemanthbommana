@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 /* Apply styles to paragraphs with the class selector */
-.selector:nth-child(odd) {
+.selector:nth-child(even) {
     color: #00f;
     background-color: #eee;
     font-family: Arial;
